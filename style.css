@@ -1,0 +1,29 @@
+nav{
+    margin: 0px;
+}
+img{
+    height: 10.0em;
+    margin-top: -2.0em;
+    margin-left: -3.0em;
+}
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: initial;
+    list-style-type:none;
+    background-color: #F0EFF4;
+    align-items: center;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    -webkit-text-stroke-width: medium;
+    font-family: cursive;
+    
+    
+}
